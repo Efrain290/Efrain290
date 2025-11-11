@@ -1,12 +1,12 @@
 <div align="center">
   
-  <img src="https://i.imgur.com/TuImagenDePerfil.png" alt="Tu Imagen de Perfil" width="150px" style="border-radius: 50%;">
+  <img src="https://slidesdocs.com/es/fondo/celebrando-el-dia-del-programador-con-una-pc-antigua-y-un-fondo-multicolor-felicidad-representada-en-3d-en-el-mundo-tecnologico-fondo-power-point_5a5f7ec753" alt="Tu Imagen de Perfil" width="150px" style="border-radius: 50%;">
 
-  <h1>Hola! Soy [Tu Nombre o Apodo] 🚀</h1>
+  <h1>Hola! Soy Efrain🚀</h1>
 
   <p>
     <a href="https://www.linkedin.com/in/[Tu-LinkedIn]"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:[Tu-Correo-Electrónico]"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:[ efraincabrera.sis25ch@tecba.edu.bo]"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 💻 Desarrollador [Tu Título]
 
-Soy [Tu Título/Rol, ej. Ingeniero IoT y Desarrollador Python] con especial interés en la automatización y el análisis de datos. Mi enfoque actual está en **integrar hardware (ESP32) con sistemas en la nube (IoT y Google Sheets)** para crear soluciones prácticas como sistemas de asistencia y control.
+Soy Ingeniero en Sistemas y Desarrollador Python con especial interés en la automatización y el análisis de datos. Mi enfoque actual está en **integrar hardware (ESP32) con sistemas en la nube (IoT y Google Sheets)** para crear soluciones prácticas como sistemas de asistencia y control.
 
 - 🧠 **Aprendiendo actualmente:** Profundizando en Pandas y Scikit-learn para análisis de datos del IoT.
 - 💡 **Filosofía:** Crear soluciones eficientes y bien documentadas.
@@ -53,13 +53,6 @@ Usa el formato de lista con enlaces claros y un emoji para hacerlo más legible.
 >
 > 🔗 **[Ver el Código Fuente](https://github.com/[TuNombreDeUsuario]/registro-asistencia-esp32)**
 
-### 2. [Nombre de tu Segundo Proyecto] 📊
-> [Breve descripción de tu segundo proyecto, ej. un script de Python para análisis de datos con Pandas].
->
-> **Tecnologías:** `Python` • `Pandas` • `Matplotlib`
->
-> 🔗 **[Ver el Código Fuente](https://github.com/[TuNombreDeUsuario]/nombre-de-tu-repo)**
-
 ---
 
 ## 📈 Mi Actividad en GitHub (Visual)
@@ -68,16 +61,16 @@ Puedes personalizar el tema (`theme=`) y otros parámetros de estas tarjetas. **
 
 ### Estadísticas Generales
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TuNombreDeUsuario]&show_icons=true&theme=buefy&hide_rank=false&include_all_commits=true)](https://github.com/[TuNombreDeUsuario])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[efrain290]&show_icons=true&theme=buefy&hide_rank=false&include_all_commits=true)](https://github.com/[efrain290])
 
 ### Lenguajes Usados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[TuNombreDeUsuario]&layout=compact&theme=buefy)](https://github.com/[TuNombreDeUsuario])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[efrain290]&layout=compact&theme=buefy)](https://github.com/[efrain290])
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TuNombreDeUsuario]&label=Visitas%20a%20mi%20perfil&color=0e75b6&style=flat" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=[efrain290]&label=Visitas%20a%20mi%20perfil&color=0e75b6&style=flat" alt="Contador de Visitas" />
 </div>
 
 <br>
