@@ -11,7 +11,7 @@
 
 ---
 
-## 💻 Desarrollador [Tu Título]
+## 💻 Programador de sistemas 
 
 Soy Ingeniero en Sistemas y Desarrollador Python con especial interés en la automatización y el análisis de datos. Mi enfoque actual está en **integrar hardware (ESP32) con sistemas en la nube (IoT y Google Sheets)** para crear soluciones prácticas como sistemas de asistencia y control.
 
