@@ -1,9 +1,8 @@
 <div align="center">
   
-  <img src="https://slidesdocs.com/es/fondo/celebrando-el-dia-del-programador-con-una-pc-antigua-y-un-fondo-multicolor-felicidad-representada-en-3d-en-el-mundo-tecnologico-fondo-power-point_5a5f7ec753" alt="Tu Imagen de Perfil" width="150px" style="border-radius: 50%;">
+  <img src="https://i.pinimg.com/originals/c0/92/35/c09235ad8109db34bcd203dde5d7cfe4.jpg" alt="Tu Imagen de Perfil" width="150px" style="border-radius: 50%;">
 
   <h1>Hola! Soy Efrain🚀</h1>
-
   <p>
     <a href="https://www.linkedin.com/in/[Tu-LinkedIn]"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:[ efraincabrera.sis25ch@tecba.edu.bo]"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -61,16 +60,16 @@ Puedes personalizar el tema (`theme=`) y otros parámetros de estas tarjetas. **
 
 ### Estadísticas Generales
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[efrain290]&show_icons=true&theme=buefy&hide_rank=false&include_all_commits=true)](https://github.com/[efrain290])
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=efrain290&show_icons=true&theme=buefy&hide_rank=false&include_all_commits=true)](https://github.com/efrain290)
 
 ### Lenguajes Usados
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[efrain290]&layout=compact&theme=buefy)](https://github.com/[efrain290])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efrain290&layout=compact&theme=buefy)](https://github.com/efrain290)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[efrain290]&label=Visitas%20a%20mi%20perfil&color=0e75b6&style=flat" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=efrain290&label=Visitas%20a%20mi%20perfil&color=0e75b6&style=flat" alt="Contador de Visitas" />
 </div>
 
 <br>
